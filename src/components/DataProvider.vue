@@ -20,8 +20,6 @@ fetch(props.url)
 
 </script>
 
-<template>
-    
+<template>    
     <slot :data="data" :loading="loading" :error="error"/>
-
 </template>
