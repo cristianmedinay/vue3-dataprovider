@@ -1,5 +1,5 @@
 <script setup>
-import DataProvider from './components/DataProvider.vue';
+import DataProvider from './components/DataProvider';
 
 
 </script>
